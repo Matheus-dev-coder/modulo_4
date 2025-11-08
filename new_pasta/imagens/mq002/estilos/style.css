@@ -1,3 +1,26 @@
 @charset "UTF-8";
 
 /* cofigiraçãoes gerais */
+
+*{
+ margin: 0px;
+ padding: 0px; 
+
+}
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(121, 48, 189);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+    color: white;
+    text-shadow: 3px px 0px rgb(93, 38, 145);
+    padding: 10px;
+}
+
+
